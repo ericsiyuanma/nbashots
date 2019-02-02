@@ -76,5 +76,5 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=['bokeh', 'matplotlib', 'numpy', 'pandas', 'requests',
-                      'scipy', 'seaborn==0.6.0']
+                      'scipy', 'seaborn==0.7.0']
 )
